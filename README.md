@@ -1,6 +1,6 @@
 # probot-hello
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that A Probot app
+> A GitHub App built with [Probot](https://github.com/probot/probot) that A Probot app.
 
 ## Setup
 
@@ -11,6 +11,8 @@ npm install
 # Run the bot
 npm start
 ```
+
+There are some useful hacking commands [here](/docs/HACKING.md).
 
 ## Contributing
 
