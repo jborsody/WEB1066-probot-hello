@@ -27,4 +27,3 @@ after_succes
     fi;
     docker images;
     set +x +v;
-    
