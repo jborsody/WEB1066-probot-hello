@@ -16,8 +16,7 @@ install:
 script:
   - docker run --rm probot-hello npm run NPM_TARGET
 
-
-after_succes
+after_succes:
   - set -x -v;
     set -e;
     if [ "${NPM_TARGET}" = "test" ]; then
